@@ -62,8 +62,4 @@ Following pre requirements are must for this project :
 
 END
 
-# Contributors:
 
-- Esha Manideep
-- Amartya Mandal
-- Divyansh Bhatia
